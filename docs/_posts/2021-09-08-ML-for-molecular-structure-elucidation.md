@@ -2,7 +2,7 @@
 layout: post
 title: "Machine Learning for Molecular Structure Elucidation."
 date: 2021-09-08 01:01:01 -0000
-categories: CATEGORY-1 CATEGORY-2
+categories: ML-Molecules
 ---
 This is my phD thesis about Machine Learning methods for molecular elucidation. Here, I propose the use of classic ML algorithms and Deep Learning architectures to find the most probable structure from spectral data. The two main spectroscopic techniques included are NMR (Nuclear Magnetic Resonance) and Mass Spectrometry.
 
